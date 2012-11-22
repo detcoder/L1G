@@ -1,15 +1,21 @@
 import std.stdio, std.range, std.string, std.conv;
-
+/*******************************************************************************
+ * tail -n 5相当のプログラム。古典的Cっぽい書き方
+ */
 void main()
 {
 	string outstr;
+	// autoによる型推論
 	auto size = cast(int)stdin.size;
 	
+	// 関数内関数。やろうと思えばクロージャも
 	char get1byte()
 	{
+		// stdio.getFPでCのFILE*を取ることができる
 		return cast(char)fgetc(stdin.getFP());
 	}
 	
+	// D言語では0は偽
 	if(size)
 	{
 		stdin.seek(0, SEEK_END);
