@@ -1,16 +1,16 @@
 L1G
 ===
 
-L-1グランプリ（姫路IT勉強会vol.11）において利用した、D言語の紹介と課題解決のソース。
-なにせ書き手が**へっぽこ**なので、あまり綺麗なソースではありません。
+L-1グランプリ（姫路IT勉強会vol.11）において利用した、D言語の紹介と課題解決のソース。  
+なにせ書き手が**へっぽこ**なので、あまり綺麗なソースではありません。  
 
 L-1に関して
 ---
 
 以下のリンク参照の事
-[姫路IT勉強会](https://sites.google.com/site/himejiitstudy/ "姫路IT勉強会")
-[姫路IT勉強会 Vol.11(zusaar)](http://www.zusaar.com/event/434003 "zusaar")
-[L-1グランプリ お題](https://sites.google.com/site/himejiitstudy/2012/20121117/questions "お題")
+[姫路IT勉強会](https://sites.google.com/site/himejiitstudy/ "姫路IT勉強会")  
+[姫路IT勉強会 Vol.11(zusaar)](http://www.zusaar.com/event/434003 "zusaar")  
+[L-1グランプリ お題](https://sites.google.com/site/himejiitstudy/2012/20121117/questions "お題")  
 
 ソースコードのリスト
 ---
@@ -33,5 +33,5 @@ L-1に関して
 謝辞
 ---
 
-姫路IT勉強会の運営の方々に改めて御礼申し上げます。
+姫路IT勉強会の運営の方々に改めて御礼申し上げます。  
 また、ネタのツッコミ及びコードを提供してくださった@mono_shoo氏に感謝致します。
