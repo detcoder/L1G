@@ -5,6 +5,7 @@ import std.stdio, std.range, std.string, std.conv;
 void main()
 {
 	string outstr;
+	int linecount;
 	// autoによる型推論
 	auto size = cast(int)stdin.size;
 	
@@ -24,8 +25,12 @@ void main()
 		{
 			outstr = to!string(c);
 		}
+		else if(c == '\n')
+		{
+			linecount++;
+		}
 	}
-	for(int i=1,linecount=0;i<size; i++)
+	for(int i=1;i<size; i++)
 	{
 		char c;
 		stdin.seek(-i, SEEK_END);
