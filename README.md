@@ -1,37 +1,37 @@
 L1G
 ===
 
-L-1ѓOѓ‰ѓ“ѓvѓЉЃi•PHIT•Ч‹­‰пvol.11Ѓj‚Й‚Ё‚ў‚Д——p‚µ‚ЅЃADЊѕЊк‚МЏР‰о‚Ж‰Ы‘и‰рЊ€‚Мѓ\Ѓ[ѓXЃB  
-‚И‚Й‚№Џ‘‚«Ћи‚Є**‚Ц‚Б‚Ы‚±**‚И‚М‚ЕЃA‚ ‚Ь‚игY—н‚Иѓ\Ѓ[ѓX‚Е‚Н‚ ‚и‚Ь‚№‚сЃB  
+L-1г‚°гѓ©гѓігѓ—гѓЄпј€е§«и·ЇITе‹‰еј·дјљvol.11пј‰гЃ«гЃЉгЃ„гЃ¦е€©з”ЁгЃ—гЃџгЂЃDиЁЂиЄћгЃ®зґ№д»‹гЃЁиЄІйЎЊи§Јж±єгЃ®г‚Ѕгѓјг‚№гЂ‚  
+гЃЄгЃ«гЃ›ж›ёгЃЌж‰‹гЃЊ__гЃёгЃЈгЃЅгЃ“__гЃЄгЃ®гЃ§гЂЃгЃ‚гЃѕг‚Љз¶єйє—гЃ§еЉ№зЋ‡зљ„гЃЄг‚Ѕгѓјг‚№гЃ§гЃЇгЃ‚г‚ЉгЃѕгЃ›г‚“гЂ‚  
 
-L-1‚ЙЉЦ‚µ‚Д
+L-1гЃ«й–ўгЃ—гЃ¦
 ---
 
-€И‰є‚МѓЉѓ“ѓNЋQЏЖ‚МЋ–
-[•PHIT•Ч‹­‰п](https://sites.google.com/site/himejiitstudy/ "•PHIT•Ч‹­‰п")  
-[•PHIT•Ч‹­‰п Vol.11(zusaar)](http://www.zusaar.com/event/434003 "zusaar")  
-[L-1ѓOѓ‰ѓ“ѓvѓЉ ‚Ё‘и](https://sites.google.com/site/himejiitstudy/2012/20121117/questions "‚Ё‘и")  
+д»Ґдё‹гЃ®гѓЄгѓіг‚ЇеЏ‚з…§гЃ®дє‹  
+[е§«и·ЇITе‹‰еј·дјљ](https://sites.google.com/site/himejiitstudy/ "е§«и·ЇITе‹‰еј·дјљ")  
+[е§«и·ЇITе‹‰еј·дјљ Vol.11(zusaar)](http://www.zusaar.com/event/434003 "zusaar")  
+[L-1г‚°гѓ©гѓігѓ—гѓЄ гЃЉйЎЊ](https://sites.google.com/site/himejiitstudy/2012/20121117/questions "гЃЉйЎЊ")  
 
-ѓ\Ѓ[ѓXѓRЃ[ѓh‚МѓЉѓXѓg
+г‚Ѕгѓјг‚№г‚ігѓјгѓ‰гЃ®гѓЄг‚№гѓ€
 ---
 
 * [fizzbuzz.d](https://github.com/detcoder/L1G/blob/master/fizzbuzz.d "fizzbuzz")
-    * ‚И‚с‚М•П“N‚а‚И‚ўЃA*“Є‚М€«‚ў*fizzbuzz‚МЋА‘•
+    * гЃЄг‚“гЃ®е¤‰е“Іг‚‚гЃЄгЃ„гЂЃ_й ­гЃ®ж‚ЄгЃ„_fizzbuzzгЃ®е®џиЈ…
 * [fizzbuzzed.d](https://github.com/detcoder/L1G/blob/master/fizzbuzzed.d "fizzbuzzed")
-    * ѓRѓ“ѓpѓCѓ‹Ћћ‚Й‰‰ЋZЃE•\Ћ¦‚·‚й‚ж‚¤‚Й‚µ‚Ѕfizzbuizz‚МЋА‘•
+    * г‚ігѓігѓ‘г‚¤гѓ«ж™‚гЃ«жј”з®—гѓ»иЎЁз¤єгЃ™г‚‹г‚€гЃ†гЃ«гЃ—гЃџfizzbuizzгЃ®е®џиЈ…
 * [fizzbuzzMT.d](https://github.com/detcoder/L1G/blob/master/fizzbuzzMT.d "fizzbuzzMT")
-    * std.concurrency‚Й‚ж‚йѓ}ѓ‹ѓ`ѓXѓЊѓbѓhfizzbuzzЋА‘•Ѓi–ў”­•\Ѓj
+    * std.concurrencyгЃ«г‚€г‚‹гѓћгѓ«гѓЃг‚№гѓ¬гѓѓгѓ‰fizzbuzzе®џиЈ…пј€жњЄз™єиЎЁпј‰
 * [gpa.d](https://github.com/detcoder/L1G/blob/master/gpa.d "gpa")
-    * GPAЊvЋZ‚МЋА‘•ЃBswitch•¶
+    * GPAиЁ€з®—гЃ®е®џиЈ…гЂ‚switchж–‡
 * [gpaStr.d](https://github.com/detcoder/L1G/blob/master/gpaStr.d "gpaStr")
-    * GPAЊvЋZ‚МЋА‘•ЃBstd.string.count——pЃi–ў”­•\Ѓj
+    * GPAиЁ€з®—гЃ®е®џиЈ…гЂ‚std.string.countе€©з”Ёпј€жњЄз™єиЎЁпј‰
 * [tail5.d](https://github.com/detcoder/L1G/blob/master/tail5.d "tail5")
-    * tail -n5 ‘Љ“–‚МЋА‘•ЃBѓЏѓ“ѓ‰ѓCѓiЃ[
+    * tail -n5 з›ёеЅ“гЃ®е®џиЈ…гЂ‚гѓЇгѓігѓ©г‚¤гѓЉгѓј
 * [tail5c.d](https://github.com/detcoder/L1G/blob/master/tail5c.d "tail5c")
-    * tail -n5 ‘Љ“–‚МЋА‘•ЃBCѓ‰ѓCѓN‚ИЏ‘‚«•ы
+    * tail -n5 з›ёеЅ“гЃ®е®џиЈ…гЂ‚Cгѓ©г‚¤г‚ЇгЃЄж›ёгЃЌж–№
 
-ЋУЋ«
+и¬ќиѕћ
 ---
 
-•PHIT•Ч‹­‰п‚М‰^‰c‚М•ыЃX‚Й‰ь‚Я‚ДЊд—зђ\‚µЏг‚°‚Ь‚·ЃB  
-‚Ь‚ЅЃAѓlѓ^‚МѓcѓbѓRѓ~‹y‚СѓRЃ[ѓh‚р’с‹џ‚µ‚Д‚­‚ѕ‚і‚Б‚Ѕ@mono_shooЋЃ‚ЙЉґЋУ’v‚µ‚Ь‚·ЃB
+е§«и·ЇITе‹‰еј·дјљгЃ®йЃ‹е–¶гЃ®ж–№гЂ…гЃ«ж”№г‚ЃгЃ¦еѕЎз¤јз”ігЃ—дёЉгЃ’гЃѕгЃ™гЂ‚  
+гЃѕгЃџгЂЃгѓЌг‚їгЃ®гѓ„гѓѓг‚ігѓџеЏЉгЃіг‚ігѓјгѓ‰г‚’жЏђдѕ›гЃ—гЃ¦гЃЏгЃ гЃ•гЃЈгЃџ@mono_shooж°ЏгЃ«ж„џи¬ќи‡ґгЃ—гЃѕгЃ™гЂ‚
