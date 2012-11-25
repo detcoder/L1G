@@ -2,7 +2,7 @@ L1G
 ===
 
 L-1グランプリ（姫路IT勉強会vol.11）において利用した、D言語の紹介と課題解決のソース。  
-なにせ書き手が__へっぽこ__なので、あまり綺麗で効率的なソースではありません。  
+なにせ書き手が __へっぽこ__ なので、あまり綺麗で効率的なソースではありません。  
 
 L-1に関して
 ---
@@ -16,7 +16,7 @@ L-1に関して
 ---
 
 * [fizzbuzz.d](https://github.com/detcoder/L1G/blob/master/fizzbuzz.d "fizzbuzz")
-    * なんの変哲もない、_頭の悪い_fizzbuzzの実装
+    * なんの変哲もない、 _頭の悪い_ fizzbuzzの実装
 * [fizzbuzzed.d](https://github.com/detcoder/L1G/blob/master/fizzbuzzed.d "fizzbuzzed")
     * コンパイル時に演算・表示するようにしたfizzbuizzの実装
 * [fizzbuzzMT.d](https://github.com/detcoder/L1G/blob/master/fizzbuzzMT.d "fizzbuzzMT")
